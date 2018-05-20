@@ -1,0 +1,12 @@
+Character : [2]Bard
+
+Str: [23][+6]
+Dex: [16][+3]
+Con: [24][+7]
+Int: [16][+3]
+Wis: [15][+2]
+Cha: [14][+2]
+HP:[72]
+Base Attack Bonus : 2.0
+Combat : 25.0
+Damage : 23

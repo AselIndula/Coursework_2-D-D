@@ -1,0 +1,68 @@
+Acrobatics
+-Freeing yourself from grapples and the like
+-Squeezing through tight spaces without losing movement
+-Balancing on thin/fragile surfaces without falling
+Arcana
+- Recall lore about magic items and spells
+- Identifying a spell in a scroll/book
+- Disarming magic traps
+Athletics
+- Shoving creatures
+- Grappling creatures
+- Acting in mid-air
+Bluff
+-Opposed Check
+-Gain Combat Advantage
+-Create a Diversion to Hide
+Diplomacy
+-A Diplomacy check is made against a DC set by the dungeon master.
+-Diplomacy is usually used in a skill challenge that requires a number of successes
+-You can turn a person into a fanatic follower.
+Dungeoneering
+-Dungeoneering is a knowledge type skill linked to Wisdom.
+-Can be used to gather knowledge.
+-Dungeoneering is a support skill that consists of exploring the dungeons of Daemonheim.
+Endurance
+-Endurance is linked to Constitution.
+-Make an Endurance check to stave off ill effects and to push yourself beyond normal physical limits.
+-When reduced to 0 or fewer hit points, make an Endurance check as an immediate action to remain conscious.
+Heal
+-You usually use first aid to save a dying character.
+-You can make him or her stable.
+-Providing long-term care means treating a wounded person for a day or more.
+History
+- Remembering anniversaries of important happenings
+- Telling when/where a certain item was made
+- Noticing a person's origins based on their looks or customs
+Insight
+- Noticing what a person plans by what they're doing
+- Perceiving if someone is being mentally dominated
+- Getting the meaning of underlying messages
+Intimidate
+- Intimidating (duh) someone into doing what you want
+- Torturing someone
+- Taunting someone into violence
+Nature
+- Identifying poisonous/dangerous food
+- Harvesting poisons from plants/beasts
+- Detecting strange weather changes
+Perception
+- Spotting/hearing hidden threats
+- Finding minute details
+- Identifying a noise's source
+Religion
+- Recalling lore about deities, temples and rituals
+- Performing a ritual according to specification
+- Knowing what would be offensive to a certain fait
+Stealth
+- Hiding
+- Mingling in a crowd
+- Following someone
+Streetwise
+-Using this skill takes 1 hour and might be part of a skill challenge
+-Streetwise can be more than knowing where to go.
+-The most common use for Streetwise is to gather information
+Thievery
+-Disabling traps
+-Opening locks
+-Picking pockets
